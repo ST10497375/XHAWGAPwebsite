@@ -5,6 +5,13 @@ h1 {
     padding: 10px 20;
     font-size: 50px;
 }
+
+p {
+    font-size: 30px;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+}
 .top-border {
     height: 100px;
     width: 100%;
@@ -12,6 +19,9 @@ h1 {
     text-align: right;
     font-weight: bold;
     font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
     
 
@@ -27,3 +37,14 @@ nav a {
 nav a:hover {
     color:white
 }
+
+.logo {
+    height: 100px;
+    z-index: 1;
+}
+
+.nav-links {
+    position: absolute;
+    right: 300px;
+}
+
