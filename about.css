@@ -1,6 +1,29 @@
-h2 {
+h1 {
     display: flex;
-    align-items: center;
+    text-align: center;
     justify-content: space-between;
-    padding: 10px 20px;
+    padding: 10px 20;
+    font-size: 50px;
+}
+.top-border {
+    height: 100px;
+    width: 100%;
+    background: rgb(73, 181, 227);
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+
+}
+
+nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color:white
 }
