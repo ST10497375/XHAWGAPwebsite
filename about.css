@@ -12,6 +12,13 @@ p {
     color: black;
     text-align: left;
 }
+
+p2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+}
 .top-border {
     height: 100px;
     width: 100%;
