@@ -1,0 +1,57 @@
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 10px 20;
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+}
+
+p2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+}
+.top-border {
+    height: 100px;
+    width: 100%;
+    background: rgb(73, 181, 227);
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+
+nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color:white
+}
+
+.logo {
+    height: 100px;
+    z-index: 1;
+}
+
+.nav-links {
+    position: absolute;
+    right: 300px;
+}
+
