@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>About Us</title>
-        <link rel="stylesheet" href="about.css">
+        <link rel="stylesheet" href="courses.css">
         <style>
             </style>
     </head>
@@ -32,7 +32,7 @@
                 <a href="about.html" style="color: black;">About</a>
                 <a href="contact.html" style="color: black;">Contact</a>
                 <a href="courses.html" style="color: black;">Courses</a>
-            
+                <a href="cooking.html" style="color: black;">Cooking</a>
             </nav>
         </div>
         <header style="display:flex; justify-content:center; align-items:center; padding: 20px;">
@@ -55,39 +55,6 @@
 
         
     </div>
-
     <div class="main" id="mainContent">
-        <h1>Welcome to Empowering The Nation</h1>
+        <h1>COOKING COURSE/h1>
         <p>Your gateway to knowledge and skills development.</p>
-    </div>
-
-    <script> <!-- Script to make the dropdown buttons work -->
-       const dropdownButtons = document.querySelectorAll('.dropdownbtn');
-       dropdownButtons.forEach(button => { 
-        button.addEventListener('click', () => {
-            const dropdown = button.nextElementSibling;
-            dropdown.classList.toggle('show');
-        } 
-       )}); 
-        
-       function loadContent(section) { //<!--Function to load content based on the button clicked --> 
-  let content = ''; 
-
-  if (section === 'homepage') { 
-    content = `<h1>Welcome to Empowering The Nation</h1><p>Your gateway to knowledge and skills development.</p>`; 
-  } else if (section === 'cooking') {
-    content = `<h2>Cooking details</h2>`;
-  } else if (section === 'firstaid') { 
-    content = `<h2>First Aid Details </h2>`;
-  } 
-  document.getElementById('mainContent').innerHTML = content;
-} 
-
-    </script> 
-        
-        <p style="font: size 30px;font-size:bold; color: black; text-align: left;">We are an organization determined to provide quality education in many different fields, hoping to give them better chance career-wise</p>
-        <h2 style="text-align: center; font-size: 100px;font-style: normal; color:rgb(73, 181, 227); margin:20px 0;">Our Mission</h2>
-        <br> 
-        <p2 style="font-size:20px; font-weight: normal;">To help locals feel empowered</p2>
-        <br>
-        
