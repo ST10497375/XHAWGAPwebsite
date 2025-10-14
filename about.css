@@ -22,7 +22,7 @@ p2 {
 .top-border {
     height: 100px;
     width: 100%;
-    background: rgb(73, 181, 227);
+    background: #4a6da7;
     text-align: right;
     font-weight: bold;
     font-size: 20px;
@@ -61,7 +61,7 @@ nav a:hover {
     position: fixed;
     top: 0;
     left: -250;
-    background-color: rgb(36, 128, 233) ; 
+    background-color: #4a6da7 ; 
     padding-top: 20px;
     overflow-y: auto;
     transition: left 0.3s ease;

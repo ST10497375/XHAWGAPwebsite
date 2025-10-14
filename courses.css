@@ -13,13 +13,13 @@ h1 {
     justify-content: space-between;
     padding: 10px 20;
     font-size: 50px;
-    color:rgb(73, 181, 227);;
+    color:#4a6da7;;
 }
 h2{
     text-align: center;
     font-size: 100px;
     font-style: normal;
-     color:rgb(73, 181, 227);
+     color:#4a6da7;;
       margin:20px 0;
 }
 p {
@@ -32,7 +32,7 @@ p {
 .top-border {
     height: 100px;
     width: 100%;
-    background: rgb(73, 181, 227);
+    background: #4a6da7;
     text-align: right;
     font-weight: bold;
     font-size: 20px;
