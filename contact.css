@@ -14,7 +14,7 @@ h1 {
     padding: 10px 20;
     font-size: 50px;
     margin:20px 0;
-    color:rgb(0, 122, 236);
+    color:#4a6da7;
 }
 
 p {
@@ -27,7 +27,7 @@ p {
 .top-border {
     height: 100px;
     width: 100%;
-    background: rgb(0, 122, 236);
+    background: #4a6da7;
     text-align: right;
     font-weight: bold;
     font-size: 20px;

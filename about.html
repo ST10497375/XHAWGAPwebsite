@@ -10,19 +10,7 @@
     </head>
    
     <body style="background-color: white;">
-        <button id="menuBtn"> Menu</button>
-
-            <div id="sidenav" class="sidenav">
-                <a href="#" onclick="loadContent('contact')">Contact</a>
-
-                <button class="dropdownbtn">Short Courses </button>
-                <div class="dropdownbtncontainer" >
-                    <a href="#" onclick="loadContent('cooking')">Cooking</a>
-                <button class="dropdownbtn">Long Courses</button>
-                <div class="dropdownbtncontainer">
-                    <a href="#" onclick="loadContent('firstaid')">First Aid</a>
-                </div>
-            </div>
+       
 
             <div class="main" id="mainContent">
                 </div>
@@ -37,58 +25,14 @@
             </nav>
         </div>
         <header style="display:flex; justify-content:center; align-items:center; padding: 20px;">
-            <h1 style="text-align: center; font-size: 100px;font-style: normal; color: #4a6da7; margin:20px 0;">About Us</h1>
-           
+            <h style="text-align: center; font-size: 100px;font-style: normal; color: #4a6da7; margin:20px 0;">About Us</h>
         </header>
-          <div id="sidenav" class="sidenav"> <!-- Changed class to id for unique identification -->
-        <a href="#" onclick="loadContent('homepage')">Homepage</a> <!-- # means stay on this page and connect it to the
-         function that will help the button to fonction correctly -->
+            <p>We are an organization determined to provide quality education in many different fields, hoping to give them better chance career-wise</p>
+        <h style="text-align: center; font-size: 100px;font-style: normal; color:#4a6da7; margin:20px 0;">Our Mission</h>
+    </header>
+        <p>To help locals feel empowered</p>
 
-        <button class="dropdownbtn">Short Courses </button> <!-- Giving an id for the dropdown button -->
-        <div class="dropdownbtncontainer" > <!-- Giving an id for the dropdown container , container that will hold the list of courses -->
-            <a href="#" onclick="loadContent('cooking')">Cooking</a> 
-        </div>  
+    
+        </body>
         
-        <button class="dropdownbtn">Long Courses</button>
-        <div class="dropdownbtncontainer" >
-            <a href="#" onclick="loadContent('firstaid')">First Aid</a>
-        </div>
-
-        
-    </div>
-
-    <div class="main" id="mainContent">
-        <h1>Welcome to Empowering The Nation</h1>
-        <p>Your gateway to knowledge and skills development.</p>
-    </div>
-
-    <script> <!-- Script to make the dropdown buttons work -->
-       const dropdownButtons = document.querySelectorAll('.dropdownbtn');
-       dropdownButtons.forEach(button => { 
-        button.addEventListener('click', () => {
-            const dropdown = button.nextElementSibling;
-            dropdown.classList.toggle('show');
-        } 
-       )}); 
-        
-       function loadContent(section) { //<!--Function to load content based on the button clicked --> 
-  let content = ''; 
-
-  if (section === 'homepage') { 
-    content = `<h1>Welcome to Empowering The Nation</h1><p>Your gateway to knowledge and skills development.</p>`; 
-  } else if (section === 'cooking') {
-    content = `<h2>Cooking details</h2>`;
-  } else if (section === 'firstaid') { 
-    content = `<h2>First Aid Details </h2>`;
-  } 
-  document.getElementById('mainContent').innerHTML = content;
-} 
-
-    </script> 
-        
-        <p style="font: size 30px;font-size:bold; color: black; text-align: left;">We are an organization determined to provide quality education in many different fields, hoping to give them better chance career-wise</p>
-        <h2 style="text-align: center; font-size: 100px;font-style: normal; color:rgb(0, 122, 236); margin:20px 0;">Our Mission</h2>
-        <br> 
-        <p2 style="font-size:20px; font-weight: normal;">To help locals feel empowered</p2>
-        <br>
         
