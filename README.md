@@ -30,7 +30,7 @@ https://github.com/ST10497375/XHAWGAPwebsite.git
 
 ![image](https://github.com/user-attachments/assets/edba38d1-6b94-450a-aae2-75130973ec5b)
 
-![image](https://github.com/user-attachments/assets/0300f942-29f2-4888-b75b-ca7c8cdac915)
+# Courses and course content ![image](https://github.com/user-attachments/assets/0300f942-29f2-4888-b75b-ca7c8cdac915)
 
 ![image](https://github.com/user-attachments/assets/86cc19b1-cec8-4606-a65c-b8099f3e8d8f)
 
