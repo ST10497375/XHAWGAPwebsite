@@ -1,8 +1,8 @@
-Overview of app & website 
+# Overview of app & website 
 
 The mobile app and website both share the same functions; to assist the user about the courses offered, as well as detailed information, such as course content and duration, and prices. 
 
-Features of app & website
+# Features of app & website
 
 By using a hyperlink, users can access all this information. They can also choose to purchase courses, with discounts applicable depending on how many courses are purchased.
 The website has a page for users to purchase courses, calculating the final amount, VAT and discounts included.
@@ -14,13 +14,11 @@ The discounts are as follows:
 
 15% discount for more than three courses.
 
-github repository link: 
-
-website:
+# Github repository link: 
 
 https://github.com/ST10497375/XHAWGAPwebsite.git
 
-screenshots:
+# Screenshots:
 
 ![image](https://github.com/user-attachments/assets/be28ce79-f002-487e-8a8d-dd6218a8f7f9)
 
