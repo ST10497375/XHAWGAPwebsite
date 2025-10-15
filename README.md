@@ -24,14 +24,16 @@ https://github.com/ST10497375/XHAWGAPwebsite.git
 
 # Changelog
 
-![image](https://github.com/user-attachments/assets/4db837e4-2f15-425a-8220-8d28f9006add)
+# milestone 2
 
-![image](https://github.com/user-attachments/assets/2ef0035d-2ae3-49e4-bf8e-07388d02ffb7)
+# about us ![image](https://github.com/user-attachments/assets/4db837e4-2f15-425a-8220-8d28f9006add)
 
-![image](https://github.com/user-attachments/assets/a99bbe09-45ae-46a5-8489-2dcbeb3d5a78)
+# courses ![image](https://github.com/user-attachments/assets/2ef0035d-2ae3-49e4-bf8e-07388d02ffb7)
+
+# contact us ![image](https://github.com/user-attachments/assets/a99bbe09-45ae-46a5-8489-2dcbeb3d5a78)
 
 
-
+# Milestone 3
 
 # About us ![image](https://github.com/user-attachments/assets/be28ce79-f002-487e-8a8d-dd6218a8f7f9)
 
