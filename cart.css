@@ -1,27 +1,15 @@
 body{
     background-color: white;
 }
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-}
-h1 {
-    display: flex;
-    text-align: center;
-    justify-content: space-between;
-    padding: 10px 20;
-    font-size: 50px;
-    margin:20px 0;
-    color:#4a6da7;
-}
-
-p {
-    font-size: 40px;
-    font-weight: normal;
-    color: black;
+p{
+    font-size:20px; 
+    color: black; 
     text-align: left;
+}
+h2{
+    text-align: left; 
+    font-size: 50px; 
+    color: black;
 }
 
 .top-border {
@@ -56,15 +44,4 @@ nav a:hover {
 .nav-links {
     position: absolute;
     right: 300px;
-}
-.maps-container{
-    display: flex;
-    justify-content: center;
-    flex-wrap:wrap;
-    gap:10px;
-}
-iframe{
-    width:400px;
-    height:300px;
-    border:0;
 }

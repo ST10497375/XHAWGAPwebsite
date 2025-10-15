@@ -101,3 +101,4 @@ document.addEventListener("DOMContentLoaded", function () {
     CalculateButton.addEventListener("click", CalculateTotal);
   }
 });
+
