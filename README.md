@@ -16,6 +16,18 @@ The discounts are as follows:
 
 15% discount for more than three courses.
 
+# Using the website
+
+1. launch the website through VS code
+   
+2.  Once there, there will be a navigation bar with four buttons: about us, contact, courses, and carts.
+
+3. Press the contact button to see the organisation's contact details and addresses (in map form).
+
+4. Once done, press the courses button to navigate to the course information. Each course name is a hyperlink. Click on it to navigate to a more detailed section about each course. Once done, you can press the back button at the bottom of the page. This will take you back to the Courses page with the hyperlinks.
+
+5. Once happy, press the Cart page to purchase as many courses as you'd like. the total, with VAT and applicable discounts, will show at the bottom. At the bottom, there is a form you can fill out if there are any queries.
+
 # Github repository link: 
 
 https://github.com/ST10497375/XHAWGAPwebsite.git
