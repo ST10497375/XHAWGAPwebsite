@@ -46,7 +46,7 @@ https://github.com/ST10497375/XHAWGAPwebsite.git
 
 ![image](https://github.com/user-attachments/assets/836ae57d-8d02-4ab5-8007-3c14d893afc5)
 
-![image](https://github.com/user-attachments/assets/3c9031e2-d93b-4691-8d50-fb8ba3b585ea)
+# Cart ![image](https://github.com/user-attachments/assets/3c9031e2-d93b-4691-8d50-fb8ba3b585ea)
 
 
 
