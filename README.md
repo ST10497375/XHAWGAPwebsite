@@ -56,17 +56,3 @@ screenshots:
 
 
 
-
-
-
-
-
-
-
-
-app:
-
-
-
-
-
