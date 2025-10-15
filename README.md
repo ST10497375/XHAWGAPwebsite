@@ -20,9 +20,9 @@ https://github.com/ST10497375/XHAWGAPwebsite.git
 
 # Screenshots:
 
-# about us ![image](https://github.com/user-attachments/assets/be28ce79-f002-487e-8a8d-dd6218a8f7f9)
+# About us ![image](https://github.com/user-attachments/assets/be28ce79-f002-487e-8a8d-dd6218a8f7f9)
 
-![image](https://github.com/user-attachments/assets/9e251f42-080c-4816-a6c7-577bd3597c22)
+# Contact page + maps ![image](https://github.com/user-attachments/assets/9e251f42-080c-4816-a6c7-577bd3597c22)
 
 ![image](https://github.com/user-attachments/assets/dea13437-9e62-464f-b6e7-358af5a70f26)
 
