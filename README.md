@@ -16,7 +16,20 @@ The discounts are as follows:
 
 github repository link: 
 
+website:
+
 https://github.com/ST10497375/XHAWGAPwebsite.git
+
+screenshots:
+
+![image](https://github.com/user-attachments/assets/be28ce79-f002-487e-8a8d-dd6218a8f7f9)
+
+
+
+
+app:
+
+
 
 
 
