@@ -1,3 +1,5 @@
+# Group members: ST10476645, ST10497375, ST10486848
+
 # Overview of app & website 
 
 The mobile app and website both share the same functions; to assist the user about the courses offered, as well as detailed information, such as course content and duration, and prices. 
@@ -19,6 +21,17 @@ The discounts are as follows:
 https://github.com/ST10497375/XHAWGAPwebsite.git
 
 # Screenshots:
+
+# Changelog
+
+![image](https://github.com/user-attachments/assets/4db837e4-2f15-425a-8220-8d28f9006add)
+
+![image](https://github.com/user-attachments/assets/2ef0035d-2ae3-49e4-bf8e-07388d02ffb7)
+
+![image](https://github.com/user-attachments/assets/a99bbe09-45ae-46a5-8489-2dcbeb3d5a78)
+
+
+
 
 # About us ![image](https://github.com/user-attachments/assets/be28ce79-f002-487e-8a8d-dd6218a8f7f9)
 
