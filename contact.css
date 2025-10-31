@@ -35,17 +35,19 @@ p {
     align-items: center;
     justify-content: center;
 }
-
-nav a {
-    margin-left: 20px;
-    text-decoration: none;
-    color: blue;
-    font-weight: bold;
+.top-border a {
+  float: left;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px ;
 }
 
-nav a:hover {
-    color:white
+.top-border a:hover {
+  color: white;
 }
+
 
 .logo {
     height: 100px;
