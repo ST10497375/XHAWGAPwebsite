@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Display
     outputEl.innerHTML = `
+     <div style="font-size: 40px; line-height: 1.6;">
         <strong>Selected Courses:</strong> ${
           selectedCourses.join(", ") || "None"
         } <br>
@@ -91,6 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <strong>Total Fees:</strong> <span style="color:green; font-weight:bold;">R${TotalFees.toFixed(
           2
         )}</span>
+        </div>
     `;
   }
 
